@@ -10,7 +10,7 @@ The project follows the Medallion Architecture pattern and demonstrates:
 - Silver Layer transformations
 - SCD Type 2 implementation
 - Gold Layer analytics
-- GenAI-powered business insights
+- EDatabricks AI Functions to generate business insights from analytical datasets
 - Dashboard reporting
 
 ## Architecture
